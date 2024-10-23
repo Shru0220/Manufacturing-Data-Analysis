@@ -3,7 +3,7 @@
 
 **Overview**
 
-This project focuses on analysing the manufacturing process of a clothing/fabric factory using data from various stages of production. The dataset includes information on work orders, employees, machine details, machine usage, production quantities, processed quantities, rejected quantities and time metrics such as start and end times of machines. The goal is to uncover insights into production efficiency, machine utilization and operational/cost efficiency. 
+This project focuses on analysing the manufacturing process of a clothing/fabric factory using data from various stages of production. The dataset includes information on work orders, buyers, Customers, employees, machine details, machine usage, production quantities, processed quantities, rejected quantities and time metrics such as start and end times of machines. The goal is to uncover insights into production efficiency, machine utilization and operational/cost efficiency. 
 
 The tools used include **Excel**, Power Query and **Power BI** for data visualization and analysis. The charts created help to gain insights into the efficiency of production and pinpoint areas for improvement.
 
